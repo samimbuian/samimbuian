@@ -7,6 +7,8 @@
 - $ git config --list --show-origin --show-scope
 - Go to vscode and start adding file in github repository
 ## vs code terminal touch command run করার জন্য
-- প্রথমে  npm install touch-cli -g
+```
+npm install touch-cli -g
+```
 - তারপর touch command কাজ করবে touch command এর মাধ্যমে empty file create
 - touch index.js app.js
