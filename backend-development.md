@@ -12,3 +12,20 @@ npm install touch-cli -g
 ```
 - তারপর touch command কাজ করবে touch command এর মাধ্যমে empty file create
 - touch index.js app.js
+## database connect with mongodb
+```javascript
+index.js
+import mongoose from "mongoose"
+
+function connectDB (){
+}
+connectDB()
+BEST WAY
+(async () => {
+try{
+........
+}catch(error){
+........
+}
+})()
+```
